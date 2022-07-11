@@ -5,7 +5,6 @@
 %selkey 1234567890
 %space_style 4
 %keep_key_case
-%flag_auto_select_by_phrase
 %flag_vertical_selection
 %endkey `\,'[]/.-;,./1234567890-()~!:
 #%flag_disp_partial_match
@@ -13,7 +12,7 @@
 a 日
 b 月
 c 金
-d 的 木
+d 木
 e 水
 f 火
 g 土
@@ -1460,6 +1459,7 @@ cytu 鏡
 cyvi 鉉
 cywi 鏀
 cyx 鑇
+d 的
 d 木
 da 杳
 dafu 榥
