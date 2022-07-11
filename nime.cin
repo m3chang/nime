@@ -40,13 +40,8 @@ z 重
 . 。
 ; ；
 / ？
-[ 「
-] 」
-( （
-) ）
 ~ ～
 ! ！
-: ：
 A A
 B B
 C C
@@ -81,13 +76,8 @@ Z Z
 . 。
 ; ；
 / ？
-[ 「
-] 」
-( （
-) ）
 ~ ～
 ! ！
-: ：
 A A
 B B
 C C
@@ -3683,6 +3673,7 @@ gyvo 垓
 gywd 壈
 gywm 壇
 gywv 壞
+h 我
 h 竹
 ha 白
 habwi 皭
@@ -11314,6 +11305,7 @@ tywv 蓑
 tyx 薺
 tyyb 藡
 tyyo 蘧
+u 你
 u 山
 uahu 嵋
 uamh 崵
@@ -69487,7 +69479,7 @@ skrr 匲
 sksk 𡱉
 skthu 𩠷
 skthu 𩯢
-sl 卩
+slx 卩
 slb 𡰯
 slbhx 𠥪
 slbi 𡲇
@@ -117296,6 +117288,7 @@ slash slash
 slashed slashed
 slashes slashes
 slashing slashing
+sl 斜槓
 slat slat
 slate slate
 slated slated
